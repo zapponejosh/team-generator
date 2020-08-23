@@ -22,7 +22,7 @@ const emailValidator = (value) => {
 
   const stringValidator = (value) => {
     var pass = value.match(
-        /^[\w]{2,20}$/i
+        /^\S[\w\s]{2,20}$/i
     );
     if (pass) {
       return true;
