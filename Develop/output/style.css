@@ -1,0 +1,55 @@
+html {
+    font-size: 16px;
+}
+
+body {
+margin-bottom: 20px;
+}
+
+.team-heading {
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(64,64,180,1) 35%, rgba(0,212,255,1) 100%);
+    border-radius: 0;
+}
+
+.team-heading h1 {
+    font-size: 4rem;
+    color: white;
+    text-shadow: 3px 2px rgba(0,212,255, .8);
+}
+
+.card {
+    margin: 1rem;
+    border: 2px solid rgba(2,0,36,1);
+    box-shadow: 12px 12px 2px 1px rgba(0,212,255,.3);
+}
+
+.card-header {
+    background-color: rgb(255, 251, 227);
+}
+
+h2.card-title {
+    text-shadow: 2px 1px rgba(0,212,255, .8);
+}
+
+.fas {
+    color: rgba(64,64,180,1);
+
+}
+
+.list-group-item {
+    border-radius: 0;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 4px solid rgba(2,0,36,1);
+}
+
+.list-group-item:last-child {
+    border-bottom: 4px solid rgba(64,64,180,.8);
+
+}
+
+.list-group-item:first-child {
+    /* border-top: 4px solid rgb(98, 98, 156,.5); */
+    padding-top: 0;
+}
