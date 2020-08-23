@@ -25,6 +25,7 @@ margin-bottom: 20px;
 
 .card-header {
     background-color: rgb(255, 251, 227);
+    text-transform: capitalize;
 }
 
 h2.card-title {
