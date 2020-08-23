@@ -17,7 +17,7 @@ A Node CLI that takes information for a team and outputs a html file that displa
 ## Preview
 ![screenshot](img/example-img.png)
 
-[Watch a demo here](https://drive.google.com/file/d/1e1GWlDmMMpnnK06PoL-IKIGIjYmIJuer/view?usp=sharing)
+[Watch a demo here](https://drive.google.com/file/d/1tBx0uH2BD0Ba8Ggql2U6Z9kS2Q--BZ9t/view?usp=sharing)
 
 [See the example output here](https://github.com/zapponejosh/team-generator/blob/master/output/team.html)
 
