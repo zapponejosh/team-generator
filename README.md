@@ -6,6 +6,7 @@
 * [Installation and Usage](#installation-and-usage)
 * [Testing](#testing)
 * [Contact](#contact)
+
 A Node CLI that takes information for a team and outputs a html file that displays member information
 ## Tech Stack
 * Node
@@ -16,9 +17,9 @@ A Node CLI that takes information for a team and outputs a html file that displa
 ## Preview
 ![screenshot](img/example-img.png)
 
-[Watch a demo here](googledrive)
+[Watch a demo here](https://drive.google.com/file/d/1e1GWlDmMMpnnK06PoL-IKIGIjYmIJuer/view?usp=sharing)
 
-[See the exmple output here](output/test.hmtl)
+[See the example output here](https://github.com/zapponejosh/team-generator/blob/master/output/team.html)
 
 ## Installation and Usage
 ```npm install```
